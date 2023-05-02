@@ -21,3 +21,4 @@ Where you can play Tic-Tac-Toe with your firend on the same computer
 - Count the points between Player and CPU (developing)
 
 
+<img width="1213" alt="Screenshot 2566-05-03 at 03 55 11" src="https://user-images.githubusercontent.com/24986505/235785973-63bf4ee0-b102-425b-adaf-3a2e4f41da9a.png">
