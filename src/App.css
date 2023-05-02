@@ -24,7 +24,13 @@ div.square {
 
 div.App {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   height: 100vh;
+}
+
+div.history {
+  display: flex;
+  gap: 2em;
 }
